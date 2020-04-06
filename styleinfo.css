@@ -1,0 +1,30 @@
+.topnav a {
+    background-color: inherit;
+    font-family:OCR A Std, monospace;
+    color:#808080;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background: #eee;
+  }
+
+  img {
+      float:right;
+      height: 600px;
+      float: right;
+      padding-top:50px;
+  }
+  pre{
+    float: left;
+    font-family:OCR A Std, monospace;
+    color:#2F4F4F;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 5px;
+  }

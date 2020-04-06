@@ -1,0 +1,38 @@
+html,body {
+    width:100vw;
+    height: 100vh;
+    margin: 0;
+}
+#videoBG {
+    position:fixed;
+    z-index: -1;
+}
+
+.content {
+    font-family:OCR A Std, monospace;
+    font-size: small;
+    position: fixed;
+    color:#808080;
+    padding: 30px;
+    padding-top: 350px;
+  }
+
+  .btn {
+    border: none;
+    background-color: inherit;
+    padding: 10px;
+    font-family:OCR A Std, monospace;
+    font-size: 25px;
+    color:#808080;
+    font-weight: bold;
+  }
+  .btn:hover {background: #eee;}
+
+
+
+@media (min-aspect-ratio: 16/9) {
+    #videoBG {
+        width:100%;
+        height: auto;
+    }
+}

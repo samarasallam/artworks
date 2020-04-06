@@ -1,0 +1,54 @@
+.topnav a {
+    background-color: inherit;
+    font-family:OCR A Std, monospace;
+    color:#808080;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background: #eee;
+  }
+
+  .intro{
+    float: left;
+    font-family:OCR A Std, monospace;
+    color:#2F4F4F;
+    font-size: 12px;
+    position: absolute;
+    top: 200px;
+    left: 16px;
+  }
+
+  .bgimg{
+      opacity:70%;
+      height:600px;
+      float:right;
+  }
+  .drawing{
+      float: left;
+      height: 500px;
+      position: absolute;
+      top: 600px;
+      left:300px;
+      opacity:85%;
+  }
+
+  .steps{
+    float:right;
+    font-family:OCR A Std, monospace;
+    color:#2F4F4F;
+    font-size: 13px;
+    top: 500px;
+  }
+  .water{
+      float:left;
+      width:100px;
+      height:900px;
+      position: absolute;
+      opacity:50%;
+      top:210px;
+  }

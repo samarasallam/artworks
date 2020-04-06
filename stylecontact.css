@@ -1,0 +1,38 @@
+.topnav a {
+    background-color: inherit;
+    font-family:OCR A Std, monospace;
+    color:#808080;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background: #eee;
+  }
+
+  .water{
+    float:left;
+    width:100px;
+    height:900px;
+    position: absolute;
+    opacity:50%;
+    top:100px;
+}
+.workingpic{
+    transform: rotate(90deg);
+    height:500px;
+    float:right;
+    padding-left:300px;
+  
+}
+pre{
+float: left;
+font-family:OCR A Std, monospace;
+color:#2F4F4F;
+font-size: 13px;
+position: absolute;
+top: 250px;
+}
